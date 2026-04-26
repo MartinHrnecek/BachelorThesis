@@ -1,0 +1,42 @@
+{
+  "AssemblyName": "DesktopApp.dll",
+  "TypeCount": 11,
+  "MethodCount": 154,
+  "ILInstructionCount": 7938,
+  "StringLiterals": [
+    "{11111-22222-40001-00001}",
+    "{11111-22222-40001-00002}",
+    "{11111-22222-50001-00001}",
+    "{11111-22222-50001-00002}",
+    "B1RH5hwTKePZLw8SnC.G0yrvt1VYRrkWilvET",
+    "{11111-22222-20001-00001}",
+    "{11111-22222-20001-00002}",
+    "file:///",
+    "Location",
+    "{11111-22222-30001-00001}",
+    "{11111-22222-30001-00002}",
+    "CQjWlBFV4E6iTMymNg.PFwImvS9eHSbjEnS27",
+    "{11111-22222-50001-00000}",
+    "This assembly is protected by an unregistered version of Eziriz\u0027s \u0022.NET Reactor\u0022! This assembly won\u0027t further work."
+  ],
+  "StringLiteralCount": 14,
+  "Halstead": {
+    "N1_TotalOperators": 7938,
+    "N2_TotalOperands": 5332,
+    "n1_UniqueOperators": 100,
+    "n2_UniqueOperands": 1187,
+    "Vocabulary": 1287,
+    "Length": 13270,
+    "Volume": 137076.397,
+    "Difficulty": 224.6,
+    "Effort": 30787335.762
+  },
+  "CyclomaticComplexity": {
+    "Average": 8.597,
+    "Maximum": 326
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 3.459,
+    "MethodNameEntropy": 7.146
+  }
+}

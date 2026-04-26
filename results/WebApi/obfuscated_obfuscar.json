@@ -1,0 +1,27 @@
+{
+  "AssemblyName": "WebApi.dll",
+  "TypeCount": 12,
+  "MethodCount": 96,
+  "ILInstructionCount": 1068,
+  "StringLiterals": [],
+  "StringLiteralCount": 0,
+  "Halstead": {
+    "N1_TotalOperators": 1068,
+    "N2_TotalOperands": 488,
+    "n1_UniqueOperators": 62,
+    "n2_UniqueOperands": 233,
+    "Vocabulary": 295,
+    "Length": 1556,
+    "Volume": 12766.313,
+    "Difficulty": 64.927,
+    "Effort": 828878.878
+  },
+  "CyclomaticComplexity": {
+    "Average": 2.674,
+    "Maximum": 9
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 3.585,
+    "MethodNameEntropy": 3.469
+  }
+}

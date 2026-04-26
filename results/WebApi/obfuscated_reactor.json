@@ -1,0 +1,42 @@
+{
+  "AssemblyName": "WebApi.dll",
+  "TypeCount": 16,
+  "MethodCount": 179,
+  "ILInstructionCount": 8482,
+  "StringLiterals": [
+    "{11111-22222-40001-00001}",
+    "{11111-22222-40001-00002}",
+    "{11111-22222-50001-00001}",
+    "{11111-22222-50001-00002}",
+    "V7TKYT1mWKaC48Vsgq.gwD1uMmZCko5s500Ur",
+    "{11111-22222-20001-00001}",
+    "{11111-22222-20001-00002}",
+    "file:///",
+    "Location",
+    "{11111-22222-30001-00001}",
+    "{11111-22222-30001-00002}",
+    "2LAPVa9rGeXGnB9u6t.RMM4sQkSDp3HCkAOZG",
+    "{11111-22222-50001-00000}",
+    "This assembly is protected by an unregistered version of Eziriz\u0027s \u0022.NET Reactor\u0022! This assembly won\u0027t further work."
+  ],
+  "StringLiteralCount": 14,
+  "Halstead": {
+    "N1_TotalOperators": 8482,
+    "N2_TotalOperands": 5615,
+    "n1_UniqueOperators": 107,
+    "n2_UniqueOperands": 1316,
+    "Vocabulary": 1423,
+    "Length": 14097,
+    "Volume": 147662.127,
+    "Difficulty": 228.269,
+    "Effort": 33706741.742
+  },
+  "CyclomaticComplexity": {
+    "Average": 8.355,
+    "Maximum": 339
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 4,
+    "MethodNameEntropy": 7.11
+  }
+}

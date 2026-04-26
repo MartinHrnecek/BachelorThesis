@@ -1,0 +1,15 @@
+{
+  "ReferenceTypeCount": 10,
+  "ObfuscatedTypeCount": 8,
+  "MatchedTypeNames": [
+    "AssemblyInfo"
+  ],
+  "TypeNameScore": 0.1,
+  "ReferenceIdentifierCount": 138,
+  "ObfuscatedIdentifierCount": 145,
+  "MatchedIdentifierCount": 85,
+  "IdentifierScore": 0.616,
+  "ObfuscatedLookingNames": 6,
+  "ObfuscationDetectionRatio": 0.75,
+  "DeobfuscationScore": 0.358
+}

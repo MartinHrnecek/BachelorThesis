@@ -1,0 +1,27 @@
+{
+  "AssemblyName": "DesktopApp.dll",
+  "TypeCount": 16,
+  "MethodCount": 54,
+  "ILInstructionCount": 1808,
+  "StringLiterals": [],
+  "StringLiteralCount": 0,
+  "Halstead": {
+    "N1_TotalOperators": 1808,
+    "N2_TotalOperands": 868,
+    "n1_UniqueOperators": 85,
+    "n2_UniqueOperands": 376,
+    "Vocabulary": 461,
+    "Length": 2676,
+    "Volume": 23678.915,
+    "Difficulty": 98.112,
+    "Effort": 2323178.654
+  },
+  "CyclomaticComplexity": {
+    "Average": 4.213,
+    "Maximum": 55
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 4,
+    "MethodNameEntropy": 2.038
+  }
+}

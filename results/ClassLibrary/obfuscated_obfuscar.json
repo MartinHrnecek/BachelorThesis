@@ -1,0 +1,27 @@
+{
+  "AssemblyName": "ClassLibrary.dll",
+  "TypeCount": 6,
+  "MethodCount": 41,
+  "ILInstructionCount": 488,
+  "StringLiterals": [],
+  "StringLiteralCount": 0,
+  "Halstead": {
+    "N1_TotalOperators": 488,
+    "N2_TotalOperands": 239,
+    "n1_UniqueOperators": 56,
+    "n2_UniqueOperands": 144,
+    "Vocabulary": 200,
+    "Length": 727,
+    "Volume": 5557.083,
+    "Difficulty": 46.472,
+    "Effort": 258250.017
+  },
+  "CyclomaticComplexity": {
+    "Average": 2.951,
+    "Maximum": 7
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 2.585,
+    "MethodNameEntropy": 2.718
+  }
+}

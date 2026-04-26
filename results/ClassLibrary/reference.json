@@ -1,0 +1,37 @@
+{
+  "AssemblyName": "ClassLibrary.dll",
+  "TypeCount": 5,
+  "MethodCount": 29,
+  "ILInstructionCount": 332,
+  "StringLiterals": [
+    "event://",
+    "Stack is empty",
+    "Method \u0027",
+    "\u0027 not found on ",
+    "Failure(",
+    ")",
+    "Success(",
+    "...",
+    " "
+  ],
+  "StringLiteralCount": 9,
+  "Halstead": {
+    "N1_TotalOperators": 332,
+    "N2_TotalOperands": 178,
+    "n1_UniqueOperators": 38,
+    "n2_UniqueOperands": 115,
+    "Vocabulary": 153,
+    "Length": 510,
+    "Volume": 3701.268,
+    "Difficulty": 29.409,
+    "Effort": 108849.458
+  },
+  "CyclomaticComplexity": {
+    "Average": 2.931,
+    "Maximum": 7
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 2.322,
+    "MethodNameEntropy": 4.644
+  }
+}

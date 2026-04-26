@@ -1,0 +1,24 @@
+{
+  "ReferenceTypeCount": 10,
+  "ObfuscatedTypeCount": 10,
+  "MatchedTypeNames": [
+    "AssemblyInfo",
+    "IOrderService",
+    "IProductRepository",
+    "OrderService",
+    "ProductRepository",
+    "Result",
+    "ProductsController",
+    "Order",
+    "OrderStatus",
+    "Product"
+  ],
+  "TypeNameScore": 1,
+  "ReferenceIdentifierCount": 138,
+  "ObfuscatedIdentifierCount": 277,
+  "MatchedIdentifierCount": 114,
+  "IdentifierScore": 0.826,
+  "ObfuscatedLookingNames": 0,
+  "ObfuscationDetectionRatio": 0,
+  "DeobfuscationScore": 0.913
+}

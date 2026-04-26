@@ -1,0 +1,42 @@
+{
+  "AssemblyName": "AlgorithmLib.dll",
+  "TypeCount": 12,
+  "MethodCount": 127,
+  "ILInstructionCount": 8415,
+  "StringLiterals": [
+    "{11111-22222-40001-00001}",
+    "{11111-22222-40001-00002}",
+    "{11111-22222-50001-00001}",
+    "{11111-22222-50001-00002}",
+    "PgQsh1OpmgilwH5q3O.kMn1bWkunjHGH2SgDU",
+    "{11111-22222-20001-00001}",
+    "{11111-22222-20001-00002}",
+    "file:///",
+    "Location",
+    "{11111-22222-30001-00001}",
+    "{11111-22222-30001-00002}",
+    "Ryh1j0o0bAtdKxpOBZ.lXpZPf4r55NOVudn1w",
+    "{11111-22222-50001-00000}",
+    "This assembly is protected by an unregistered version of Eziriz\u0027s \u0022.NET Reactor\u0022! This assembly won\u0027t further work."
+  ],
+  "StringLiteralCount": 14,
+  "Halstead": {
+    "N1_TotalOperators": 8415,
+    "N2_TotalOperands": 5686,
+    "n1_UniqueOperators": 103,
+    "n2_UniqueOperands": 1209,
+    "Vocabulary": 1312,
+    "Length": 14101,
+    "Volume": 146051.841,
+    "Difficulty": 242.208,
+    "Effort": 35374867.241
+  },
+  "CyclomaticComplexity": {
+    "Average": 10.882,
+    "Maximum": 317
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 3.585,
+    "MethodNameEntropy": 6.724
+  }
+}

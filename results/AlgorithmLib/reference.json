@@ -1,0 +1,41 @@
+{
+  "AssemblyName": "AlgorithmLib.dll",
+  "TypeCount": 7,
+  "MethodCount": 29,
+  "ILInstructionCount": 740,
+  "StringLiterals": [
+    "--benchmark",
+    "=== Algorithm Library Test ===",
+    "Original: ",
+    ", ",
+    "Sorted:   ",
+    "Fibonacci(10): ",
+    "Factorial(8): ",
+    "BinarySearch(7): index ",
+    "IsPalindrome(\u0027racecar\u0027): ",
+    "racecar",
+    "ReverseWords(\u0027hello world\u0027): ",
+    "hello world",
+    "=== Done ==="
+  ],
+  "StringLiteralCount": 13,
+  "Halstead": {
+    "N1_TotalOperators": 740,
+    "N2_TotalOperands": 251,
+    "n1_UniqueOperators": 62,
+    "n2_UniqueOperands": 125,
+    "Vocabulary": 187,
+    "Length": 991,
+    "Volume": 7478.972,
+    "Difficulty": 62.248,
+    "Effort": 465551.075
+  },
+  "CyclomaticComplexity": {
+    "Average": 3.724,
+    "Maximum": 8
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 2.807,
+    "MethodNameEntropy": 3.915
+  }
+}

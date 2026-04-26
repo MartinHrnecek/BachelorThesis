@@ -1,0 +1,27 @@
+{
+  "AssemblyName": "AlgorithmLib.dll",
+  "TypeCount": 8,
+  "MethodCount": 44,
+  "ILInstructionCount": 929,
+  "StringLiterals": [],
+  "StringLiteralCount": 0,
+  "Halstead": {
+    "N1_TotalOperators": 929,
+    "N2_TotalOperands": 339,
+    "n1_UniqueOperators": 71,
+    "n2_UniqueOperands": 155,
+    "Vocabulary": 226,
+    "Length": 1268,
+    "Volume": 9915.987,
+    "Difficulty": 77.642,
+    "Effort": 769896.417
+  },
+  "CyclomaticComplexity": {
+    "Average": 3.477,
+    "Maximum": 8
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 3,
+    "MethodNameEntropy": 3.986
+  }
+}

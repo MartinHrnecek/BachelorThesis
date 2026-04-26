@@ -1,0 +1,42 @@
+{
+  "AssemblyName": "CliApp.dll",
+  "TypeCount": 13,
+  "MethodCount": 120,
+  "ILInstructionCount": 8437,
+  "StringLiterals": [
+    "{11111-22222-40001-00001}",
+    "{11111-22222-40001-00002}",
+    "{11111-22222-50001-00001}",
+    "{11111-22222-50001-00002}",
+    "sc93hopR3HJqegElig.FNtM3JhiEZ48SWA6eA",
+    "{11111-22222-20001-00001}",
+    "{11111-22222-20001-00002}",
+    "file:///",
+    "Location",
+    "{11111-22222-30001-00001}",
+    "{11111-22222-30001-00002}",
+    "38btIJNKmYgbmYUvtV.HQmcliZ4hP8rMS1N7H",
+    "{11111-22222-50001-00000}",
+    "This assembly is protected by an unregistered version of Eziriz\u0027s \u0022.NET Reactor\u0022! This assembly won\u0027t further work."
+  ],
+  "StringLiteralCount": 14,
+  "Halstead": {
+    "N1_TotalOperators": 8437,
+    "N2_TotalOperands": 5830,
+    "n1_UniqueOperators": 103,
+    "n2_UniqueOperands": 1227,
+    "Vocabulary": 1330,
+    "Length": 14267,
+    "Volume": 148051.663,
+    "Difficulty": 244.698,
+    "Effort": 36228012.59
+  },
+  "CyclomaticComplexity": {
+    "Average": 11.05,
+    "Maximum": 342
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 3.7,
+    "MethodNameEntropy": 6.755
+  }
+}

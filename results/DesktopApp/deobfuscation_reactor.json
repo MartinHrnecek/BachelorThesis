@@ -1,0 +1,21 @@
+{
+  "ReferenceTypeCount": 7,
+  "ObfuscatedTypeCount": 9,
+  "MatchedTypeNames": [
+    "App",
+    "MainWindow",
+    "StringExtensions",
+    "TextAnalysisResult",
+    "HistoryService",
+    "TextAnalyzerService",
+    "AssemblyInfo"
+  ],
+  "TypeNameScore": 1,
+  "ReferenceIdentifierCount": 153,
+  "ObfuscatedIdentifierCount": 601,
+  "MatchedIdentifierCount": 120,
+  "IdentifierScore": 0.784,
+  "ObfuscatedLookingNames": 0,
+  "ObfuscationDetectionRatio": 0,
+  "DeobfuscationScore": 0.892
+}

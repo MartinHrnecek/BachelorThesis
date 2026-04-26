@@ -1,0 +1,21 @@
+{
+  "ReferenceTypeCount": 7,
+  "ObfuscatedTypeCount": 9,
+  "MatchedTypeNames": [
+    "AsyncWorker",
+    "DataAnalyzer",
+    "Greeter",
+    "ReflectionInspector",
+    "Repository",
+    "SafeCalculator",
+    "AssemblyInfo"
+  ],
+  "TypeNameScore": 1,
+  "ReferenceIdentifierCount": 159,
+  "ObfuscatedIdentifierCount": 633,
+  "MatchedIdentifierCount": 106,
+  "IdentifierScore": 0.667,
+  "ObfuscatedLookingNames": 0,
+  "ObfuscationDetectionRatio": 0,
+  "DeobfuscationScore": 0.834
+}

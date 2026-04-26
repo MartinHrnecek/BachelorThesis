@@ -1,0 +1,48 @@
+{
+  "AssemblyName": "DesktopApp.dll",
+  "TypeCount": 6,
+  "MethodCount": 37,
+  "ILInstructionCount": 545,
+  "StringLiterals": [
+    "MainWindow.xaml",
+    "Ready - Enter text to analyze",
+    "Error: Input cannot be empty.",
+    "Input: ",
+    "Words: ",
+    "Characters: ",
+    "Sentences: ",
+    "Is Palindrome: ",
+    "Uppercase: ",
+    "Reversed: ",
+    "--- History ---",
+    "  [",
+    "HH:mm:ss",
+    "] ",
+    "Analyzed successfully at ",
+    "Cleared.",
+    "/DesktopApp;component/mainwindow.xaml",
+    "history://",
+    ".!?",
+    "..."
+  ],
+  "StringLiteralCount": 20,
+  "Halstead": {
+    "N1_TotalOperators": 545,
+    "N2_TotalOperands": 287,
+    "n1_UniqueOperators": 47,
+    "n2_UniqueOperands": 147,
+    "Vocabulary": 194,
+    "Length": 832,
+    "Volume": 6323.127,
+    "Difficulty": 45.881,
+    "Effort": 290111.111
+  },
+  "CyclomaticComplexity": {
+    "Average": 2.73,
+    "Maximum": 9
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 2.585,
+    "MethodNameEntropy": 4.938
+  }
+}

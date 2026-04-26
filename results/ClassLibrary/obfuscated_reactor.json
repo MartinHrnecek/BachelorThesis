@@ -1,0 +1,42 @@
+{
+  "AssemblyName": "ClassLibrary.dll",
+  "TypeCount": 10,
+  "MethodCount": 114,
+  "ILInstructionCount": 7217,
+  "StringLiterals": [
+    "{11111-22222-40001-00001}",
+    "{11111-22222-40001-00002}",
+    "{11111-22222-50001-00001}",
+    "{11111-22222-50001-00002}",
+    "CTDrnMvKXfWnVM3Vcr.TGZZl2UTnaxZxeJW3D",
+    "{11111-22222-20001-00001}",
+    "{11111-22222-20001-00002}",
+    "file:///",
+    "Location",
+    "{11111-22222-30001-00001}",
+    "{11111-22222-30001-00002}",
+    "2FR30rFLIrKYrPydRD.M9h0h5RxGcWO1tXiJH",
+    "{11111-22222-50001-00000}",
+    "This assembly is protected by an unregistered version of Eziriz\u0027s \u0022.NET Reactor\u0022! This assembly won\u0027t further work."
+  ],
+  "StringLiteralCount": 14,
+  "Halstead": {
+    "N1_TotalOperators": 7217,
+    "N2_TotalOperands": 4785,
+    "n1_UniqueOperators": 102,
+    "n2_UniqueOperands": 1154,
+    "Vocabulary": 1256,
+    "Length": 12002,
+    "Volume": 123556.038,
+    "Difficulty": 211.469,
+    "Effort": 26128247.651
+  },
+  "CyclomaticComplexity": {
+    "Average": 9.544,
+    "Maximum": 333
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 3.322,
+    "MethodNameEntropy": 6.7
+  }
+}

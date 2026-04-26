@@ -1,0 +1,27 @@
+{
+  "AssemblyName": "CliApp.dll",
+  "TypeCount": 19,
+  "MethodCount": 43,
+  "ILInstructionCount": 1976,
+  "StringLiterals": [],
+  "StringLiteralCount": 0,
+  "Halstead": {
+    "N1_TotalOperators": 1976,
+    "N2_TotalOperands": 1066,
+    "n1_UniqueOperators": 91,
+    "n2_UniqueOperands": 407,
+    "Vocabulary": 498,
+    "Length": 3042,
+    "Volume": 27256.326,
+    "Difficulty": 119.172,
+    "Effort": 3248190.6
+  },
+  "CyclomaticComplexity": {
+    "Average": 5.306,
+    "Maximum": 55
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 4.248,
+    "MethodNameEntropy": 2.415
+  }
+}

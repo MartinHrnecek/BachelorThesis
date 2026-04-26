@@ -1,0 +1,20 @@
+{
+  "ReferenceTypeCount": 6,
+  "ObfuscatedTypeCount": 6,
+  "MatchedTypeNames": [
+    "EventAggregator",
+    "GenericStack",
+    "ReflectionHelper",
+    "Result",
+    "StringExtensions",
+    "AssemblyInfo"
+  ],
+  "TypeNameScore": 1,
+  "ReferenceIdentifierCount": 127,
+  "ObfuscatedIdentifierCount": 260,
+  "MatchedIdentifierCount": 117,
+  "IdentifierScore": 0.921,
+  "ObfuscatedLookingNames": 0,
+  "ObfuscationDetectionRatio": 0,
+  "DeobfuscationScore": 0.96
+}

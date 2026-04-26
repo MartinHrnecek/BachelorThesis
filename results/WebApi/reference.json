@@ -1,0 +1,49 @@
+{
+  "AssemblyName": "WebApi.dll",
+  "TypeCount": 11,
+  "MethodCount": 73,
+  "ILInstructionCount": 791,
+  "StringLiterals": [
+    "{{ id = {0} }}",
+    "Result",
+    " { ",
+    "Success = ",
+    ", Value = ",
+    ", Error = ",
+    "Product not found.",
+    "Product is out of stock.",
+    "Insufficient stock for requested quantity.",
+    "General",
+    "Laptop",
+    "Electronics",
+    "Mouse",
+    "Desk",
+    "Furniture",
+    "Chair",
+    "Monitor",
+    "Product ",
+    " not found.",
+    "Product name is required.",
+    "GetById"
+  ],
+  "StringLiteralCount": 21,
+  "Halstead": {
+    "N1_TotalOperators": 791,
+    "N2_TotalOperands": 352,
+    "n1_UniqueOperators": 53,
+    "n2_UniqueOperands": 186,
+    "Vocabulary": 239,
+    "Length": 1143,
+    "Volume": 9030.691,
+    "Difficulty": 50.151,
+    "Effort": 452893.997
+  },
+  "CyclomaticComplexity": {
+    "Average": 2.561,
+    "Maximum": 9
+  },
+  "SymbolEntropy": {
+    "TypeNameEntropy": 3.459,
+    "MethodNameEntropy": 5.367
+  }
+}
