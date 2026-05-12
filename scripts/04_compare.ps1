@@ -1,5 +1,5 @@
 ﻿#============================================================================
-# File:        05_compare.ps1
+# File:        04_compare.ps1
 # Project:     ObfuscationStudy pipeline
 # Author:      Martin Hrnecek <xhrnecm00>
 # Description: Computes the ratio metrics M_types, M_methods, M_IL and
@@ -8,7 +8,7 @@
 #              files of every test application. Results are printed to
 #              the console and exported to CSV for further processing.
 #
-# Usage:       .\05_compare.ps1 [obfuscator]
+# Usage:       .\04_compare.ps1 [obfuscator]
 #              obfuscator: "obfuscar" (default) | "eazfuscator" | "reactor"
 # Output:      results/metrics_<obfuscator>.csv
 #
