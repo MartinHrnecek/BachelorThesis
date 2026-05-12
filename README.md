@@ -37,8 +37,8 @@ BachelorThesis/
 │   ├── run_all.ps1             Master pipeline (recommended entry point)
 │   ├── 01_build_reference.ps1  Build all reference versions
 │   ├── 02_obfuscate.ps1        Apply selected obfuscator
-│   ├── 04_analyze.ps1          Run Analyzer on a build variant
-│   └── 05_compare.ps1          Compute ratio metrics
+│   ├── 03_analyze.ps1          Run Analyzer on a build variant
+│   └── 04_compare.ps1          Compute ratio metrics
 ├── tools/                      Obfuscator integration
 │   ├── obfuscar/               Obfuscar XML configuration template
 │   ├── eazfuscator/            Eazfuscator setup notes
