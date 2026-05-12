@@ -1,5 +1,5 @@
 ﻿#============================================================================
-# File:        04_analyze.ps1
+# File:        03_analyze.ps1
 # Project:     ObfuscationStudy pipeline
 # Author:      Martin Hrnecek <xhrnecm00>
 # Description: Runs the Analyzer tool on the specified build variant of
@@ -7,7 +7,7 @@
 #              as JSON files. Supports either the reference build or any
 #              of the obfuscated variants.
 #
-# Usage:       .\04_analyze.ps1 [version]
+# Usage:       .\03_analyze.ps1 [version]
 #              version: "reference" (default) | "obfuscated_obfuscar"
 #                       | "obfuscated_eazfuscator" | "obfuscated_reactor"
 # Output:      results/<AppName>/<version>.json
