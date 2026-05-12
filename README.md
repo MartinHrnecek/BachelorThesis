@@ -1,10 +1,10 @@
 # Analysis, Methodology and Experimental Evaluation of IL Code Obfuscation Techniques in .NET Applications
 
-**Bachelor's Thesis** — Faculty of Information Technology, Brno University of Technology (FIT VUT)
+**Bachelor's Thesis** — Faculty of Information Technology, Brno University of Technology (FIT VUT)  
 
-**Author:** Martin Hrneček ([xhrnecm00](mailto:xhrnecm00@stud.fit.vutbr.cz))
-**Supervisor:** Ing. Jan Pluskal, Ph.D.
-**Department:** Department of Information Systems (UIFS)
+**Author:** Martin Hrneček ([xhrnecm00](mailto:xhrnecm00@stud.fit.vutbr.cz))  
+**Supervisor:** Ing. Jan Pluskal, Ph.D.  
+**Department:** Department of Information Systems (UIFS)  
 **Year:** 2025/2026
 
 ---
